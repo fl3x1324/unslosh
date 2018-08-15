@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Atanas Minkov <naskospasko@gmail.com> -->
+<component type="desktop">
+  <id>com.github.fl3x1324.unslosh.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>UnSlosh</name>
+  <summary>A Catchy Tagline</summary>
+  <description>
+    <p>The best Desktop wallpapers by UnSplash.</p>
+  </description>
+</component>

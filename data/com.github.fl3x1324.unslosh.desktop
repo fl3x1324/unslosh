@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=UnSlosh
+GenericName=UnSplash App
+Comment=Update the appearance of your desktop with unsplash wallpapers
+Categories=Graphics;Art;Photography;
+Exec=com.github.fl3x1324.unslosh
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=UnSplash;UnSlosh;Wallpaper
